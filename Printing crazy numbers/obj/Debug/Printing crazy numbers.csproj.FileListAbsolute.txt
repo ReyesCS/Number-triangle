@@ -1,0 +1,6 @@
+c:\users\shonen1561\documents\visual studio 2017\Projects\Printing crazy numbers\Printing crazy numbers\bin\Debug\Printing crazy numbers.exe.config
+c:\users\shonen1561\documents\visual studio 2017\Projects\Printing crazy numbers\Printing crazy numbers\bin\Debug\Printing crazy numbers.exe
+c:\users\shonen1561\documents\visual studio 2017\Projects\Printing crazy numbers\Printing crazy numbers\bin\Debug\Printing crazy numbers.pdb
+c:\users\shonen1561\documents\visual studio 2017\Projects\Printing crazy numbers\Printing crazy numbers\obj\Debug\Printing crazy numbers.csprojResolveAssemblyReference.cache
+c:\users\shonen1561\documents\visual studio 2017\Projects\Printing crazy numbers\Printing crazy numbers\obj\Debug\Printing crazy numbers.exe
+c:\users\shonen1561\documents\visual studio 2017\Projects\Printing crazy numbers\Printing crazy numbers\obj\Debug\Printing crazy numbers.pdb
